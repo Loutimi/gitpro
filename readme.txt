@@ -1,5 +1,5 @@
 Welcome to MyProject!
 
-Author: Genevieve
+Author: Genevieve Bebe Nnaji
 
 Twitter: @Genevieve
